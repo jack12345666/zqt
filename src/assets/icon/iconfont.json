@@ -1,0 +1,51 @@
+{
+  "id": "2018098",
+  "name": "new",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "54137",
+      "name": "企业办公楼",
+      "font_class": "qiyebangonglou",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "2578222",
+      "name": "产业园区",
+      "font_class": "chanyeyuanqu",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5140539",
+      "name": "仓库",
+      "font_class": "cangku",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "9759234",
+      "name": "土地抵押",
+      "font_class": "tudidiya",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "12896478",
+      "name": "空间管理@3x",
+      "font_class": "kongjianguanlix",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "16365263",
+      "name": "厂房/仓库",
+      "font_class": "changfang",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    }
+  ]
+}
